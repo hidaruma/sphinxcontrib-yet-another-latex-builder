@@ -3,7 +3,7 @@ sphinxcontrib-yet-another-latex-builder
 
 [WIP] Sphinx LaTeX Builder using Jinja2 Template.
 
-This repository name is too long, so the codename is *YASHIRO*.
+This repository name is too long, so the codename is YASHI*L*O -Yet Another SpHInx LaTeX Orgenizer-.
 
 About
 -----
